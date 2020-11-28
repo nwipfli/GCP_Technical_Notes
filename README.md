@@ -3,4 +3,5 @@ Technical notes related to GCP services
 
 ## Sections
 
-* [How To ?](./HowTo.md "How to procedures")
+* [General Information ](General.md "General Information")
+* [How To ?](HowTo.md "How to procedures")
