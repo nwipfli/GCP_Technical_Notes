@@ -1,4 +1,6 @@
 # Google Cloud Platform - Technical Notes
 Technical notes related to GCP services
 
-* [How To](./HowTo.md)
+## Sections
+
+* [How To ?](./HowTo.md "How to procedures")
